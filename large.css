@@ -1,0 +1,22 @@
+
+   @font-face{
+      font-family: EB Garamond;
+      src: url(EBGaramond-Regular.ttf);
+      }
+   #title1{
+      color: #333A41;
+   }
+   #title2{
+      color:#333A41;
+   }
+   #title3{
+      color:#333A41;
+   }
+   iframe{
+      width: 400px;
+      height: 300px;
+   }
+   img{
+      width: 300px;
+      height: 200px;  
+   }

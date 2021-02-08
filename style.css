@@ -1,0 +1,149 @@
+@font-face{
+   font-family: EB Garamond;
+   src: url(EBGaramond-Regular.ttf);
+   }
+
+
+header{
+   width: 100%;
+   height: 180px;
+   left: 0px;
+   top: 0px;
+   background: #320A28;
+}
+
+main{
+   width: 100%;
+   min-height: 100vh;
+   left: 0px;
+   top: 180px;
+   background: #CB9173;
+}
+
+h2{
+   text-align: center;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 23px;
+   color: #FFFFFF;
+}
+
+h1{
+   text-align: center;
+   font-family: EB Garamond;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 36px;
+   line-height: 47px;
+   color: #FFFFFF;
+}
+
+h3{
+   font-size: 20px;
+   text-align: left;
+   margin:40px;
+   margin-left: 30px;
+   font-family: EB Garamond;
+   color: #FFFFFF;
+}
+
+nav{
+   position: absolute;
+   font-family: EB Garamond;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 23px;
+}
+
+
+a:link, a:hover, a:visited{
+   color: black;
+   text-decoration: none;
+   display: inline-block;
+}
+
+article{
+   text-align: center;
+   font-family: EB Garamond;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 23px;
+   color: #FFFFFF;
+   margin-top:50px;
+}
+
+#img {
+   width: 300px;
+   height: 200px;
+   padding: 10px;
+   float: left;
+}
+ 
+.container{
+   color: #FFFFFF;
+   display: block;
+   font-family: EB Garamond;
+   margin:15px;
+}
+   
+.col-sm{
+   width: 100%;
+   height: 100%;
+}
+   
+#title{
+   color:#333A41;
+   font-size:calc(6px + 2vw);
+}
+
+#title1{
+   color: #333A41;
+   font-size:calc(6px + 2vw);
+}
+
+#title2{
+   color:#333A41;
+   font-size:calc(6px + 2vw);
+}
+
+#title3{
+   color:#333A41;
+   font-size:calc(6px + 2vw);
+}
+
+iframe{
+   width: 400px;
+   height: 300px;
+}
+
+   
+
+.aside{
+   height: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   float: right;
+   width: 50%;
+}
+
+     
+body{
+   background: #CB9173;
+}
+
+
+footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   text-align: left;
+   float: left;
+   width: 100%;
+   height:114px;;
+   background: #320A28;
+   color: white;
+   padding: 20px;
+}

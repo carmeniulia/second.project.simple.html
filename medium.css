@@ -1,0 +1,27 @@
+
+      @font-face{
+         font-family: EB Garamond;
+         src: url(EBGaramond-Regular.ttf);
+         }
+         
+      #title1{
+         color: white;
+         font-size:calc(6px + 2vw);
+         }
+
+      #title3{
+            color:white;
+            font-size:calc(6px + 2vw);
+            }
+
+      iframe{
+            width: 400px;
+            height: 300px;
+            }
+
+      #img{
+            width: 250px;
+            height: 200px;
+            padding: 10px;
+            float: left;
+            }
